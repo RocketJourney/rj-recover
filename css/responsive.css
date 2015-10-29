@@ -1,0 +1,96 @@
+@media screen and (max-width: 479px){
+  #form-message.has-error {
+      left: 0;
+      position: absolute;
+      top: 15px;
+      width: 100%;
+      bottom: auto;
+  }
+
+  #main-body #recover.recover-step-5 .btn.yellow-btn{
+
+  }
+  #recover .logo_wrap .tag_line{
+    font-weight: normal;
+  }
+
+
+  #main-body {
+    padding-bottom: 22px;
+}
+
+  #login, #recover, #recover.recover-step-5 {
+      max-width: 280px;
+  }
+
+  .logo_wrap, #recover.recover-step-2 .logo_wrap {
+      text-align: center;
+  }
+
+  #register.register-step-2 .logo_wrap .logo, #recover.recover-step-2 .logo_wrap .logo{
+    float: left;
+  }
+
+  #register.register-step-2 h2, #recover.recover-step-2 h2 {
+    margin: 0 0 10px;
+}
+
+#main-body a.back {
+    margin-top: 55px;
+}
+
+  #register {
+      margin: 0 auto;
+      max-width: 280px;
+      width: 100%;
+  }
+
+  .logo_wrap {
+      display: inline-block;
+      text-align: center;
+      vertical-align: middle;
+      width: 100%;
+      position: relative;
+  }
+
+  .logo {
+      margin: 20px 16px 20px 0;
+      display: inline-block;
+  }
+
+  .mdlogo{
+    display: none;
+  }
+
+  .smlogo{
+    display: inline-block;
+    width: 43px;
+  }
+
+
+  .logo_wrap .tag_line {
+      color: #fff;
+      display: inline-block;
+      font-size: 14px;
+      font-weight: 600;
+      margin: 0;
+      text-align: center;
+      vertical-align: middle;
+  }
+
+  .form-footer .btn-link{
+    margin: 14px auto;
+  }
+
+  .logo_wrap{
+    text-align: left;
+  }
+
+  #main-body .btn.yellow-btn{
+    display: block;
+  }
+
+}
+@media screen and (max-width: 320px){
+
+}
